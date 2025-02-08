@@ -1,0 +1,37 @@
+header {
+    background-color: #000000;
+}
+
+header P {
+    text-align: center;
+    color: aliceblue;
+}
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+    color: rgb(121, 1, 121);
+    background-color: rgb(247, 247, 121);
+}
+
+ a {
+    background-color: aqua;
+    color: rgb(30, 27, 82);
+    border: 8px inset rgb(51, 86, 241);
+    padding: 10px;
+    border-radius:52px ;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.a {
+    border: 5px dashed blue;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 193);
+}
+
+footer {
+    background-color: black;
+    color: azure;
+}
