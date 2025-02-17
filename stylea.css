@@ -54,22 +54,38 @@ footer img {
 }
 
 .news1 {
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
 .news2 {
-    opacity: 0.6;
+    opacity: 0.8;
 }
 
 .news3 {
-    opacity: 0.4;
+    opacity: 0.7;
 }
 
 .news4 {
-    opacity: 0.2;
+    opacity: 0.6;
 }
 
 .news5 {
+    opacity: 0.5;
+}
+
+.news6 {
+    opacity: 0.4;
+}
+
+.news7 {
+    opacity: 0.3;
+}
+
+.news8 {
+    opacity: 0.2;
+}
+
+.news9 {
     opacity: 0.1;
 }
 
