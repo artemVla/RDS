@@ -122,3 +122,9 @@ h6 i:hover {
 .Nooo {
     color: red;
 }
+
+.music {
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 10px 10px 10px 10px rgb(127, 118, 255);
+}
