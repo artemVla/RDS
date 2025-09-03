@@ -155,3 +155,8 @@ h6 i:hover {
     background-image: linear-gradient( to top,  rgb(255, 255, 193), white, rgb(255, 255, 193));
     opacity: 0.25;
 }
+
+.Eror {
+    color: red
+    text-shedow: 0 0 10px red
+}
